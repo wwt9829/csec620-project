@@ -1,4 +1,4 @@
-Project
+Project: Machine Learning Techniques for Packer Detection
 
 CSEC-520/620 Cyber Analytics & Machine Learning
 Team 1  - Connie Dunlap, Ryne Krueger, Jackson Robbins, Wyatt Tauber
